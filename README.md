@@ -23,10 +23,16 @@ rebase rebase  rebase rebase  rebase rebase rebase rebase 第二
 
 测试rebase的作用
 
+<<<<<<< HEAD
+11111
+00000
+ppppppp
+
+lllllll
+
 
 第二次测试rebase
 
 第二次测试rebase
 第二次测试rebase
-
 
