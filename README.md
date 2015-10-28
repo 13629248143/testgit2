@@ -10,3 +10,5 @@
 重新与远程github库连接起来，而且是第一个tetgit目录
 
 这个是testgit本地创建的与远程绑定的dev分支
+
+测试rebase的作用
